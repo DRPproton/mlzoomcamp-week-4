@@ -2,6 +2,7 @@
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 requirements.txt
+homework_4-3.ipynb
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
